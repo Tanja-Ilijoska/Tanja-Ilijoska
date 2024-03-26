@@ -1,6 +1,6 @@
 ### Hello, I'm Tanja 👋
 
-I'm a full-stack .NET developer with a passion for crafting robust financial and business intelligence software solutions.
+I'm a full-stack .NET developer ⌨️ with a passion for crafting 🔨 robust financial 📈 and business intelligence 🕴️ software solutions.
 With a strong foundation in .NET development, I thrive on building scalable and efficient software solutions that empower businesses to make data-driven decisions. My interest in finance and business intelligence drives me to explore innovative ways to leverage technology for financial analysis, reporting, and decision-making processes.
 
 <a href="https://dotnet.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="dotnet" style="width:40px;height:40px;"></a>

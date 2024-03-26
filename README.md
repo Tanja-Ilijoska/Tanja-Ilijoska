@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello, I'm Tanja 👋
 
+I'm a full-stack .NET developer with a passion for crafting robust financial and business intelligence software solutions.
+With a strong foundation in .NET development, I thrive on building scalable and efficient software solutions that empower businesses to make data-driven decisions. My interest in finance and business intelligence drives me to explore innovative ways to leverage technology for financial analysis, reporting, and decision-making processes.
+
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="dotnet" style="width:40px;height:40px;"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c#" style="width:40px;height:40px;"></a>
+<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" style="width:80px;height:40px;"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" style="width:80px;height:40px;"></a>
+<a href="https://azure.microsoft.com/en-us"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="azure" style="width:40px;height:40px;"></a>
 <!--
 **Tanja-Ilijoska/Tanja-Ilijoska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
